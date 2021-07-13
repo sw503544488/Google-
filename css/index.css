@@ -6,7 +6,7 @@
     width: 272px;
     height: 92px;
     margin: 100px auto 0 auto;
-    background: center no-repeat url(https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png);
+    background: center no-repeat src="213.jpg");
 }
 
 .search {
